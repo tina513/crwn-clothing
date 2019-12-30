@@ -1,0 +1,13 @@
+{
+    "files.watcherExclude": {
+        "**/bower_components/**": true,
+        "**/dist/**": true,
+        "**/tmp/**": true
+    },
+    "files.exclude": {
+        "**/bower_components": true,
+        "**/dist": true,
+        "**/node_modules": true,
+        "**/tmp": true
+    }
+}
